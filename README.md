@@ -1,17 +1,17 @@
 # **GUI BASIC**
 
-> **영상** [**링크**]()
+> **영상** [**링크**](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1762s, "진짜 대단하신 분..")
 
 # **Basic**
 
 ```py
-import tkinter
+from tkinter import *
 
-root = tkinter.Tk()
+root = Tk()
 root.title('GUI BASIC')
 root.geometry('640x480+100+100')
 root.resizable(False, False)
-icon = tkinter.PhotoImage(file = 'img/icon.png')
+icon = PhotoImage(file = 'img/icon.png')
 root.wm_iconphoto(False, icon)
 
 root.mainloop()
@@ -22,10 +22,10 @@ root.mainloop()
 
 |제목|완료 / 날짜|
 |:------:|:---:|
-|**1. 기본 프레임**|❌|
-|**2. 버튼**|❌|
-|**3. 레이블**|❌|
-|**4. 텍스트 & 엔트리**|❌|
+|**1. 기본 프레임**|✅ 2023/02/11|
+|**2. 버튼**|✅ 2023/02/11|
+|**3. 레이블**|✅ 2023/02/11|
+|**4. 텍스트 & 엔트리**|✅ 2023/02/11|
 |**5. 리스트 박스**|❌|
 |**6. 체크 버튼**|❌|
 |**7. 라디오 버튼**|❌|
