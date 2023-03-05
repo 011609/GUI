@@ -2,7 +2,6 @@ from tkinter import *
 
 root = Tk()
 root.title('GUI BASIC')
-root.geometry('640x480+100+100')
 root.resizable(False, False)
 icon = PhotoImage(file = 'img/icon.png')
 root.wm_iconphoto(False, icon)

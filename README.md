@@ -1,6 +1,6 @@
 # **GUI BASIC**
 
-**영상** [**링크**](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1762s, "진짜 대단하신 분..")
+**영상** [**링크**](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1762s, "ㅅㄹㅎㄴㄷ!")
 
 # **Basic**
 
