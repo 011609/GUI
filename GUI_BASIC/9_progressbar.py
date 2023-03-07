@@ -27,11 +27,11 @@ root.iconphoto(False, icon) # False(필수) 넣고 이미지 변수 넣기
 # btn.pack()
 
 p_var3 = DoubleVar()
-progressbar3 = ttk.Progressbar(root, maximum=100, length=150, variable=p_var3) # double var 로 실수도 반영
+progressbar3 = ttk.Progressbar(root, maximum=300, length=400, variable=p_var3) # double var 로 실수도 반영
 progressbar3.pack()
 
 def btncmd2():
-    for i in range(1, 101):
+    for i in range(1, 301):
         time.sleep(0.01)
         p_var3.set(i) # progress bar 의 값 설정
         progressbar3.update() # UI UPDATE
